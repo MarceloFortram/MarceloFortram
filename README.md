@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarceloFortram.
 - 👀 I’m interested in programing.
-- 🌱 I’m currently learning solidy, html, javascrip...
+- 🌱 I’m currently learning solidy, html, javascript...
 - 💞️ I’m looking to collaborate on solidy.
 - 📫 How to reach me: Write-me.
 
